@@ -73,7 +73,7 @@ npm install
 yarn
 ```
 
-##### Passo 9: Executando o projeto com npm ou Yarn
+##### Passo 4: Executando o projeto com npm ou Yarn
 ```bash
 # Utilizando npm
 npm run dev
@@ -84,7 +84,7 @@ yarn dev
 # O projeto deverá ser iniciado na porta 3000
 ```
 
-##### Passo 10: Vizualizando o projeto
+##### Passo 5: Vizualizando o projeto
 Acesse: http://localhost:3000
     
 ## Tecnologias :books:
